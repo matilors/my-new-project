@@ -2,6 +2,7 @@
 
 Final project for the Building AI course
 
+
 ## Summary
 SmartStock Magallanes is an advanced, deployment-ready machine learning framework tailored for neighborhood minimarkets experiencing extreme sub-Antarctic weather variations and high financial volatility. By deploying an explicit Linear Regression equation for daily bakery forecasting and a K-Nearest Neighbor (KNN) vector model for biological spoilage detection, this system completely replaces intuitive "al ojo" operations with data-driven automated retail intelligence.
 
