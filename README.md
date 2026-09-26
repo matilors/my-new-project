@@ -1,4 +1,4 @@
-# SmartStock Magallanes: High-Volatility Predictive Logistics & Freshness Classification
+# SmartStock Magallanes: Retail AI Framework
 
 Final project for the Building AI course
 
